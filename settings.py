@@ -593,16 +593,6 @@ def settings_app():
             use_container_width=True
         )
 
-    with st.expander('debug_compare', expanded=True):
-        st.divider()
-        st.json(debug_compare(sys_to_user(st.session_state.sys_settings), st.session_state.user_settings))
-
-    # with st.expander('debug'):
-    #     st.json(st.session_state.user_settings)
-    #     st.json(sys_to_user(st.session_state.sys_settings))
-    #     st.divider()
-    #     st.json(st.session_state.sys_settings)
-
 
 if __name__ == "__main__":
     settings_app()
