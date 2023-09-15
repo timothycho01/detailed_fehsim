@@ -1,7 +1,7 @@
 # detailed_fehsim
 Simulator for Nintendo’s top grossing mobile game with customizable pools, rates, and goals.
 
-Try it out on: https://huggingface.co/spaces/timothycho01/fehsim_stats
+[Try it with the Streamlit GUI](https://huggingface.co/spaces/timothycho01/detailed_fehsim)
 
 n = 10,000 runs
 
