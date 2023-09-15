@@ -7,33 +7,28 @@ n = 10,000 runs
 
 ## Percentile cost to reach target goal of 11
 
-![goal_percentile_cost](https://github.com/timothycho01/fehsim_stats/assets/104095972/124b5418-cd27-480c-a1b9-785da4fc84e5)
+![goal_percentile_cost](https://github.com/timothycho01/detailed_fehsim/assets/104095972/c08c11e7-b437-4c19-9ac7-67e99d8c4a42)
 
 ## Progress of every run
 
-![lineages_of_runs](https://github.com/timothycho01/fehsim_stats/assets/104095972/391ece60-7eed-4f90-9a19-4e05ffcfb660)
+![lineages_of_runs](https://github.com/timothycho01/detailed_fehsim/assets/104095972/b35fb060-3975-4bc9-9bce-ba20e075c1fd)
 
 ## Session rates movement of every run
 
-![lineages_of_session_rates](https://github.com/timothycho01/fehsim_stats/assets/104095972/7d77e82d-8508-48de-858a-48b918ea6a14)
+![lineages_of_session_rates](https://github.com/timothycho01/detailed_fehsim/assets/104095972/89039473-6539-4d14-9d37-59917e3fb7a0)
 
 ## Frequency of session rates
 
-![log_freq_session_rates](https://github.com/timothycho01/fehsim_stats/assets/104095972/008e03a6-46fe-4f8f-a5de-c2a4c398caf0)
+![log_freq_session_rates](https://github.com/timothycho01/detailed_fehsim/assets/104095972/ea05fa32-0b8e-4518-a9b9-38a8e1427668)
 
 ## Distributions of total x summoned
 
-![hist_goal_group_1](https://github.com/timothycho01/fehsim_stats/assets/104095972/5db2ae80-7006-4d23-bd2f-4ab8715092be)
-
-![hist_focus_5](https://github.com/timothycho01/fehsim_stats/assets/104095972/8d73492b-5a51-4e53-9d49-a74ecd87c919)
-
-![hist_non_focus_5](https://github.com/timothycho01/fehsim_stats/assets/104095972/5145a66f-24f7-4e13-b76d-0872422cf8ca)
-
-![hist_special_4](https://github.com/timothycho01/fehsim_stats/assets/104095972/b3223edd-b856-4372-8107-23e2b97973e6)
-
-![hist_non_focus_4](https://github.com/timothycho01/fehsim_stats/assets/104095972/33b71af1-a9c9-4173-aadd-66d9a6a23d7d)
-
-![hist_non_focus_3](https://github.com/timothycho01/fehsim_stats/assets/104095972/33b8d230-a544-4a97-bbce-8f488078c98d)
+![hist_goal_group_1](https://github.com/timothycho01/detailed_fehsim/assets/104095972/dec02339-08e2-4790-afa5-b20c853c2731)
+![hist_focus_5](https://github.com/timothycho01/detailed_fehsim/assets/104095972/8095e80e-3ee9-426f-88ac-5041b4ebe198)
+![hist_non_focus_5](https://github.com/timothycho01/detailed_fehsim/assets/104095972/561d1b95-5f67-4be9-b6d2-6598fee8b7f0)
+![hist_special_4](https://github.com/timothycho01/detailed_fehsim/assets/104095972/2a54d371-3cf1-4980-b63a-9edd2bdadbe1)
+![hist_non_focus_4](https://github.com/timothycho01/detailed_fehsim/assets/104095972/91a42677-203d-49bc-aa97-c7390fbd4b5e)
+![hist_non_focus_3](https://github.com/timothycho01/detailed_fehsim/assets/104095972/29cc7252-acdb-4403-803c-d8648dab884b)
 
 ## GUI Settings Used:
 
