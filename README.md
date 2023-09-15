@@ -1,4 +1,4 @@
-# fehsim_stats
+# detailed_fehsim
 Simulator for Nintendo’s top grossing mobile game with customizable pools, rates, and goals.
 
 Try it out on: https://huggingface.co/spaces/timothycho01/fehsim_stats
